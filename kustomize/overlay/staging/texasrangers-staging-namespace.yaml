@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: texasrangers-staging
+  labels:
+    environment-id: env_2fce9ae3-d120-4246-81f3-3613359863e4
+    project-id: project_4777eedd-6da4-4d04-8193-8844ac8e57e9
+    project-name: texasrangers
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

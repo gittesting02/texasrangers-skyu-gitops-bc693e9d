@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: texasrangers-prod
+  labels:
+    environment-id: env_96bb6d12-587c-4011-b40c-831ed96a14c8
+    project-id: project_4777eedd-6da4-4d04-8193-8844ac8e57e9
+    project-name: texasrangers
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
